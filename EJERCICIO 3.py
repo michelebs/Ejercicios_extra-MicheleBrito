@@ -1,0 +1,8 @@
+print ("------------------------------------------------")
+nombre = input("Ingresa tu nombre: ")
+edad = (int(input("Ingresa tu edad: ")))
+print("------------------------------------------------")
+añocumplimidos = ((18 - edad) + 2024)
+enunciado=("Hola " +nombre + " cumplirás/cumpliste 18 años en el año " + (str(añocumplimidos)) + "")
+print(enunciado)
+print("----------------------------------------------------------------")
